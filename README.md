@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-Game
-A Simple Tic-Tac-Toe Game.
+# Tic-Tac-Toe Game
+An Amazing Tic-Tac-Toe Game made using the python library tkinter.
